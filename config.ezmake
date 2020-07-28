@@ -1,0 +1,6 @@
+PROGRAM_NAME=HelloWorld
+MAIN=src/Main.cpp
+CXX_COMPILER=g++-8
+C_COMPILER=gcc-8
+EXTRA_CXX_ARGS=-pthread
+EXTRA_C_ARGS=
